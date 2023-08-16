@@ -1,0 +1,16 @@
+C:\Users\anast\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\anast\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\anast\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\anast\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\anast\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\anast\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\anast\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\anast\OneDrive\Документы\Downloads\Доля_ekzam1\ekzam1\bin\Debug\ConsoleApp2.exe.config
+C:\Users\anast\OneDrive\Документы\Downloads\Доля_ekzam1\ekzam1\bin\Debug\ConsoleApp2.exe
+C:\Users\anast\OneDrive\Документы\Downloads\Доля_ekzam1\ekzam1\bin\Debug\ConsoleApp2.pdb
+C:\Users\anast\OneDrive\Документы\Downloads\Доля_ekzam1\ekzam1\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\anast\OneDrive\Документы\Downloads\Доля_ekzam1\ekzam1\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\anast\OneDrive\Документы\Downloads\Доля_ekzam1\ekzam1\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\anast\OneDrive\Документы\Downloads\Доля_ekzam1\ekzam1\obj\Debug\ConsoleApp2.exe
+C:\Users\anast\OneDrive\Документы\Downloads\Доля_ekzam1\ekzam1\obj\Debug\ConsoleApp2.pdb
